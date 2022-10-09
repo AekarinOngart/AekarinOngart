@@ -5,7 +5,7 @@
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula" />
 </div>
 <div style="display: inline_block"><br>
-    <img align="center" alt="Mon-CSS" height="28" src="https://nexwebsites.com/images/service/microsoft.net-development-services.png">
+    <img align="center" alt="Mon-dotnet" height="40" src="https://www.sbr-technologies.com/wp-content/uploads/2021/06/asp-net-logo.png">
     <img align="center" alt="Mon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Mon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Mon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
