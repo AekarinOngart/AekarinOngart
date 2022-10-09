@@ -9,7 +9,7 @@ const mon = {
     askMeAbout: ["web dev", "app dev", "frontend"],
     technologies: {
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "open-cv", "php"]
+        misc: ["react", "open-cv", "php"]
     },
     study_at: ["Computer Engineering", "KMITL"],
     funFact: "Simplicity is the soul of efficiency."
