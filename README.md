@@ -8,7 +8,7 @@ const mon = {
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "open-cv", "php"]
     },
-    study at: ["Computer Engineering", "KMITL"],
+    study_at: ["Computer Engineering", "KMITL"],
     funFact: "Simplicity is the soul of efficiency."
 };
 ```
