@@ -19,16 +19,15 @@ const mon = {
 </div>
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="Mon-dotnet" height="40" src="https://www.sbr-technologies.com/wp-content/uploads/2021/06/asp-net-logo.png">
-    <img align="center" alt="Mon-mongoDB" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+    <img align="center" alt="Mon-dotnet" height="45" src="https://www.sbr-technologies.com/wp-content/uploads/2021/06/asp-net-logo.png">
+    <img align="center" alt="Mon-mongoDB" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
     <img align="center" alt="Mon-MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
     <img align="center" alt="Mon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Mon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Mon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Mon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Mon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Mon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Mon-GitHub" height="30" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png">
+    <img align="center" alt="Mon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="right" alt="mon-pic" height="160" style="border-radius:50px;" src="https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=6c09b952oklutkuwm0d0z6nfsvrs1svn15jz0nw1rrqvqbll&rid=giphy.gif&ct=s">
 </div>
 </div>
