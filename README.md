@@ -1,4 +1,4 @@
-## สวัสดีครับ, I'm Aekarin Ongart!
+## 👋 สวัสดีครับ, I'm Aekarin Ongart!
  ```javascript
 const mon = {
     pronouns: "He" | "Him",
