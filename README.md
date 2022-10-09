@@ -1,4 +1,18 @@
 ## สวัสดีครับ, I'm Aekarin Ongart!
+ ```javascript
+const mon = {
+    pronouns: "He" | "Him",
+    code: [".NET", "Python", "C#", "Javascript", "HTML", "CSS"],
+    askMeAbout: ["web dev", "app dev", "frontend"],
+    technologies: {
+        devOps: ["Docker🐳"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "open-cv", "php"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 <div align="center">
     <a href="https://github.com/AekarinOngart">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AekarinOngart&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
