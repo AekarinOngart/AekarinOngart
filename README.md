@@ -1,3 +1,4 @@
+<img src="https://images.hdqwalls.com/wallpapers/linux-programmer-pixel-art-4k-ld.jpg" height="128">
 ## 👋 สวัสดีครับ, I'm Aekarin Ongart!
  ```javascript
 const mon = {
