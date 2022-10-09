@@ -5,7 +5,6 @@ const mon = {
     code: [".NET", "Python", "C#", "Javascript", "HTML", "CSS"],
     askMeAbout: ["web dev", "app dev", "frontend"],
     technologies: {
-        devOps: ["Docker🐳"],
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "open-cv", "php"]
     },
