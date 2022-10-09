@@ -26,7 +26,7 @@ const mon = {
     <img align="center" alt="Mon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Mon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Mon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-     <img align="right" alt="mon-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/o9roKuGZsTYAAAAd/anya.gif">
+     <img align="right" alt="mon-pic" style="border-radius:50px;" src="https://media.tenor.com/o9roKuGZsTYAAAAd/anya.gif">
 </div>
 </div>
 
