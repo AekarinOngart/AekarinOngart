@@ -9,7 +9,7 @@ const mon = {
         misc: ["Firebase", "open-cv", "php"]
     },
     study at: ["Computer Engineering", "KMITL"],
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    funFact: "Simplicity is the soul of efficiency."
 };
 ```
 <div align="center">
