@@ -1,4 +1,7 @@
-## 👋 สวัสดีครับ, I'm Aekarin Ongart!
+<img align="center" alt="Mon-dotnet" width="100%" src="https://r4.wallpaperflare.com/wallpaper/890/239/675/video-games-concept-art-artwork-the-banner-saga-wallpaper-79e780fe615cadf9d236d677be512391.jpg">
+
+<h1>👋 สวัสดีครับ, I'm Aekarin Ongart!</h1>
+
  ```javascript
 const mon = {
     pronouns: "He" | "Him",
