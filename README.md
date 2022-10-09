@@ -9,7 +9,7 @@ const mon = {
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "open-cv", "php"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    study at: ["Computer Engineering", "KMITL"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
