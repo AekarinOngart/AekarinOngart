@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: th3c0d3br34ker/github-readme-info@master
         with:
-          GH_TOKEN: $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
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TIMEZONE: "Asia/Bangkok"
           SHOW_LINES_OF_CODE: "false"
           SHOW_PROFILE_VIEWS: "false"
