@@ -3,7 +3,7 @@
 <h1>👋 สวัสดีครับ, I'm Aekarin Ongart!</h1>
 
  ```javascript
-const mon = {
+const aboutme = {
     pronouns: "He" | "Mon",
     code: ["C#", "Python", "ASP.NET", "Javascript", "HTML5", "CSS3"],
     askMeAbout: ["web dev", "app dev", "frontend"],
