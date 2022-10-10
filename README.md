@@ -37,8 +37,7 @@ const mon = {
 
 ##
 
-<img align="center" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ##
 
