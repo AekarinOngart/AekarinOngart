@@ -37,7 +37,9 @@ const mon = {
 
 ##
 
-![snake gif](https://github.com/AekarinOngart/AekarinOngart/blob/output/github-contribution-grid-snake.svg)
+<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
+<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
+
 
 ##
 
@@ -49,3 +51,5 @@ const mon = {
     <a href="http://line.me/ti/p/~mon.aekarin" target="_blank"><img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" target="_blank"></a>
     <a href="mailto:Aekarin.Ongart@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+![snake gif](https://github.com/AekarinOngart/AekarinOngart/blob/output/github-contribution-grid-snake.svg)
