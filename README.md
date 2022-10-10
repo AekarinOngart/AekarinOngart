@@ -36,6 +36,8 @@ const aboutme = {
     <img align="center" alt="mon-MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 </div>
+<br>
+<img align="center" src="https://www.img.in.th/images/e2b0f1db7ad07f1b595542821914305e.png">
 
 ## 💬 Connect with me 
 
