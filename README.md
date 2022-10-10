@@ -8,10 +8,10 @@ const mon = {
     code: [".NET", "Python", "C#", "Javascript", "HTML", "CSS"],
     askMeAbout: ["web dev", "app dev", "frontend"],
     technologies: {
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["react", "open-cv", "php"]
+        databases: ["MySql", "SQLite"],
+        misc: ["React", "PHP"]
     },
-    study_at: ["Computer Engineering", "KMITL"],
+    study_at: ["KMITL", "Computer Engineering"],
     funFact: "Simplicity is the soul of efficiency."
 };
 ```
@@ -22,9 +22,10 @@ const mon = {
 </div>
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="Mon-dotnet" height="45" src="https://www.sbr-technologies.com/wp-content/uploads/2021/06/asp-net-logo.png">
-    <img align="center" alt="Mon-mongoDB" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+    <img align="center" alt="Mon-PHP" height="35" src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-parental-advisory-explicit-content-logo-png-transparent-3.png">
+    <img align="center" alt="Mon-dotnet" height="40" src="https://www.sbr-technologies.com/wp-content/uploads/2021/06/asp-net-logo.png">
     <img align="center" alt="Mon-MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <img align="center" alt="Mon-SQLite" height="30" src="https://www.img.in.th/images/70ef57d30e8b618c8418babc5b3f3707.png">
     <img align="center" alt="Mon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Mon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Mon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
