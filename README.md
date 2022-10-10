@@ -9,7 +9,7 @@ const aboutme = {
     askMeAbout: ["web dev", "app dev", "frontend"],
     technologies: {
         databases: ["MySql"],
-        misc: ["React", "PHP", "Google Cloud"],
+        misc: ["React", "PHP", "GCP"],
         os: ["Windows", "Ubuntu"]
     },
     study_at: ["KMITL", "Computer Engineering"],
