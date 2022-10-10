@@ -10,7 +10,7 @@ const mon = {
     technologies: {
         databases: ["MySql"],
         misc: ["React", "PHP", "Google Cloud"]
-        os: ["Windows", "Ubuntu"]
+        operating_system: ["Windows", "Ubuntu"]
     },
     study_at: ["KMITL", "Computer Engineering"],
     funFact: "Simplicity is the soul of efficiency."
