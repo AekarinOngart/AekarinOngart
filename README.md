@@ -32,9 +32,6 @@ const mon = {
     <img align="center" alt="mon-css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="mon-reart" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img align="center" alt="mon-MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="center" alt="mon-ofice" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
-    <img align="center" alt="mon-canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
-    
     <img align="right" alt="mon-pic" height="140" style="border-radius:50px;" src="https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=6c09b952oklutkuwm0d0z6nfsvrs1svn15jz0nw1rrqvqbll&rid=giphy.gif&ct=s">
 </div>
 </div>
