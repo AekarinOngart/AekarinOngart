@@ -35,7 +35,10 @@ const mon = {
 </div>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AekarinOngart&theme=gotham)](https://git.io/streak-stats)
+##
+
+<!--START_SECTION:readme-info-->
+<!--END_SECTION:readme-info-->
 
 ##
 
