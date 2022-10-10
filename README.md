@@ -16,17 +16,14 @@ const mon = {
     funFact: "Simplicity is the soul of efficiency."
 };
 ```
-## Github Stats
-
 <div align="center">
+ <h2 align="left"=>Github Stats</h2>
     <a href="https://github.com/AekarinOngart">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AekarinOngart&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AekarinOngart&layout=compact&langs_count=7&theme=gotham" />
 </div>
-
-## My Skill Set 
-
 <div style="display: inline_block"><br>
+    <h2 align="left" style="display: inline">My Skill Set</h2>
     <img align="center" alt="mon-cshap" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img align="center" alt="mon-python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="mon-dotnet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
