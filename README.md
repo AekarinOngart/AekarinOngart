@@ -16,11 +16,15 @@ const mon = {
     funFact: "Simplicity is the soul of efficiency."
 };
 ```
+## Github Stats
+
 <div align="center">
     <a href="https://github.com/AekarinOngart">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AekarinOngart&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AekarinOngart&layout=compact&langs_count=7&theme=gotham" />
 </div>
+
+## My Skill Set 
 
 <div style="display: inline_block"><br>
     <img align="center" alt="mon-cshap" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
@@ -35,11 +39,7 @@ const mon = {
 </div>
 </div>
 
-##
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AekarinOngart&theme=darkhub&no-bg=true&no-frame=true&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
-
-##
+## Connect with me 
 
 <div>
     <a href="https://www.messenger.com/t/mon.pocket" target="_blank"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" target="_blank"></a>
