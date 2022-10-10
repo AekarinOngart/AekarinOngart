@@ -38,7 +38,7 @@ const aboutme = {
 </div>
 <br>
 
-<img align="center" width="100%" src="https://www.img.in.th/images/1d72b105b665f9ddfda26c7770501b97.jpg" style="">
+<img align="center" width="100%" src="https://www.img.in.th/images/1d72b105b665f9ddfda26c7770501b97.jpg">
 
 ## 💬 Connect with me 
 
