@@ -37,7 +37,7 @@ const mon = {
 
 ##
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AekarinOngart&theme=discord&no-bg=true&no-frame=true&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AekarinOngart&theme=darkhub&no-bg=true&no-frame=true&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
 
 ##
 
