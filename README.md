@@ -37,8 +37,7 @@ const mon = {
 
 ##
 
-<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
-<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
+<img align="center" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
 ##
