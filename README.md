@@ -37,23 +37,7 @@ const mon = {
 
 ##
 
-<!--START_SECTION_PROFILE_VIEWS:readme-info-->
-<!--END_SECTION_PROFILE_VIEWS:readme-info-->
-
-<!--START_SECTION_LINES_OF_CODE:readme-info-->
-<!--END_SECTION_LINES_OF_CODE:readme-info-->
-
-<!--START_CONTRIBUTIONS:readme-info-->
-<!--END_CONTRIBUTIONS:readme-info-->
-
-<!--START_SECTION_DAILY_COMMIT:readme-info-->
-<!--END_SECTION_DAILY_COMMIT:readme-info-->
-
-<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
-<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
-
-<!--START_SECTION_LANGUAGE:readme-info-->
-<!--END_SECTION_LANGUAGE:readme-info-->
+![snake gif](https://github.com/AekarinOngart/AekarinOngart/blob/output/github-contribution-grid-snake.svg)
 
 ##
 
@@ -65,5 +49,3 @@ const mon = {
     <a href="http://line.me/ti/p/~mon.aekarin" target="_blank"><img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" target="_blank"></a>
     <a href="mailto:Aekarin.Ongart@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
- 
-![snake gif](https://github.com/AekarinOngart/AekarinOngart/blob/output/github-contribution-grid-snake.svg)
