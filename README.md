@@ -5,7 +5,7 @@
  ```javascript
 const mon = {
     pronouns: "He" | "Mon",
-    code: ["C#", "Python", ".NET", "Javascript", "HTML5", "CSS3"],
+    code: ["C#", "Python", "ASP.NET", "Javascript", "HTML5", "CSS3"],
     askMeAbout: ["web dev", "app dev", "frontend"],
     technologies: {
         databases: ["MySql"],
