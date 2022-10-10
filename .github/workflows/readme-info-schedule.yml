@@ -1,0 +1,22 @@
+name: README Info Update
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: GitHub README Generator
+    runs-on: ubuntu-latest
+    steps:
+      - uses: th3c0d3br34ker/github-readme-info@master
+        with:
+          GH_TOKEN: $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
+          TIMEZONE: "Asia/Bangkok"
+          SHOW_LINES_OF_CODE: "false"
+          SHOW_PROFILE_VIEWS: "false"
+          SHOW_DAILY_COMMIT: "false"
+          SHOW_WEEKLY_COMMIT: "True"
+          SHOW_LANGUAGE: "false"
+          SHOW_TOTAL_CONTRIBUTIONS: "false"
