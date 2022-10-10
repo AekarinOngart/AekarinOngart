@@ -8,8 +8,9 @@ const mon = {
     code: [".NET", "Python", "C#", "Javascript", "HTML", "CSS"],
     askMeAbout: ["web dev", "app dev", "frontend"],
     technologies: {
-        databases: ["MySql", "SQLite"],
-        misc: ["React", "PHP"]
+        databases: ["MySql"],
+        misc: ["React", "PHP", "Google Cloud"]
+        os: ["Windows", "Ubuntu"]
     },
     study_at: ["KMITL", "Computer Engineering"],
     funFact: "Simplicity is the soul of efficiency."
@@ -22,16 +23,18 @@ const mon = {
 </div>
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="Mon-PHP" height="35" src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-parental-advisory-explicit-content-logo-png-transparent-3.png">
-    <img align="center" alt="Mon-dotnet" height="40" src="https://www.sbr-technologies.com/wp-content/uploads/2021/06/asp-net-logo.png">
-    <img align="center" alt="Mon-MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-    <img align="center" alt="Mon-SQLite" height="30" src="https://www.img.in.th/images/70ef57d30e8b618c8418babc5b3f3707.png">
-    <img align="center" alt="Mon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Mon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Mon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Mon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Mon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Mon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="mon-cshap" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+    <img align="center" alt="mon-python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+    <img align="center" alt="mon-dotnet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+    <img align="center" alt="mon-js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+    <img align="center" alt="mon-php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+    <img align="center" alt="mon-html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img align="center" alt="mon-css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img align="center" alt="mon-reart" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img align="center" alt="mon-MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img align="center" alt="mon-ofice" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+    <img align="center" alt="mon-canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+    
     <img align="right" alt="mon-pic" height="140" style="border-radius:50px;" src="https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=6c09b952oklutkuwm0d0z6nfsvrs1svn15jz0nw1rrqvqbll&rid=giphy.gif&ct=s">
 </div>
 </div>
