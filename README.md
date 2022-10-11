@@ -6,7 +6,7 @@
 const aboutme = {
     pronouns: "He" | "Mon",
     code: ["C#", "Python", "ASP.NET", "Javascript", "HTML5", "CSS3"],
-    askMeAbout: ["web dev", "app dev", "frontend"],
+    askMeAbout: ["web dev", "app dev", "com eng"],
     technologies: {
         databases: ["MySql"],
         misc: ["React", "PHP", "GCP"],
