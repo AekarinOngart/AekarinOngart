@@ -5,7 +5,7 @@
  ```javascript
 const aboutme = {
     pronouns: "He" | "Mon",
-    code: ["C#", "Python", "ASP.NET", "Javascript", "HTML5", "CSS3"],
+    code: ["C#", "Python", ".NET", "Javascript", "HTML5", "CSS3"],
     askMeAbout: ["web dev", "app dev", "com eng"],
     technologies: {
         databases: ["MySql"],
