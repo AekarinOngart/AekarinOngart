@@ -8,7 +8,7 @@ const aboutme = {
     code: ["C#", "Python", ".NET", "Javascript", "HTML5", "CSS3"],
     askMeAbout: ["web dev", "app dev", "com eng"],
     technologies: {
-        databases: ["MySql"],
+        databases: ["MySQL"],
         misc: ["React", "PHP", "GCP"],
         os: ["Windows", "Ubuntu"]
     },
