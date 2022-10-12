@@ -55,4 +55,18 @@ const aboutme = {
 ![snake gif](https://github.com/AekarinOngart/AekarinOngart/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
+
+```text
+From: 09 October 2022 - To: 12 October 2022
+
+Total Time: 1 hr 23 mins
+
+JavaScript   50 mins         >>>>>>>>>>>>>>>----------   60.77 %
+HTML         19 mins         >>>>>>-------------------   23.70 %
+YAML         6 mins          >>-----------------------   08.42 %
+JSON         2 mins          >------------------------   03.26 %
+Git Config   1 min           >------------------------   02.39 %
+Python       1 min           -------------------------   01.36 %
+```
+
 <!--END_SECTION:waka-->
