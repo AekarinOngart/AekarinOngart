@@ -38,22 +38,6 @@ const aboutme = {
 </div>
 <br>
 
-<img align="center" width="100%" src="https://www.img.in.th/images/1d72b105b665f9ddfda26c7770501b97.jpg">
-
-## 💬 Connect with me 
-
-<div>
-    <a href="https://www.messenger.com/t/mon.pocket" target="_blank"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/monaekarin" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://twitter.com/monaekarin_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-    <a href="https://www.youtube.com/HackBaoBao" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-    <a href="https://discord.gg/bS8ryTAqSH" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-    <a href="http://line.me/ti/p/~mon.aekarin" target="_blank"><img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" target="_blank"></a>
-    <a href="mailto:Aekarin.Ongart@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-![snake gif](https://github.com/AekarinOngart/AekarinOngart/blob/output/github-contribution-grid-snake.svg)
-
 <!--START_SECTION:waka-->
 
 ```text
@@ -70,3 +54,17 @@ Python       1 min           -------------------------   01.36 %
 ```
 
 <!--END_SECTION:waka-->
+
+## 💬 Connect with me 
+
+<div>
+    <a href="https://www.messenger.com/t/mon.pocket" target="_blank"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/monaekarin" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://twitter.com/monaekarin_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+    <a href="https://www.youtube.com/HackBaoBao" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="https://discord.gg/bS8ryTAqSH" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+    <a href="http://line.me/ti/p/~mon.aekarin" target="_blank"><img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" target="_blank"></a>
+    <a href="mailto:Aekarin.Ongart@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+![snake gif](https://github.com/AekarinOngart/AekarinOngart/blob/output/github-contribution-grid-snake.svg)
