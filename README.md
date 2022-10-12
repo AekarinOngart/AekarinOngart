@@ -53,3 +53,6 @@ const aboutme = {
 </div>
 
 ![snake gif](https://github.com/AekarinOngart/AekarinOngart/blob/output/github-contribution-grid-snake.svg)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
