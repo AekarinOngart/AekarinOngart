@@ -55,9 +55,8 @@ Python       1 min           -------------------------   01.36 %
 
 <!--END_SECTION:waka-->
 
-## 💬 Connect with me 
-
 <div>
+    <h2 align="left">💬 Connect with me</h2>
     <a href="https://www.messenger.com/t/mon.pocket" target="_blank"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/monaekarin" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://twitter.com/monaekarin_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
