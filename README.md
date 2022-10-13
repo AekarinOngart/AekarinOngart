@@ -43,6 +43,8 @@ const aboutme = {
 ```text
 From: 05 October 2022 - To: 12 October 2022
 
+Total Time: 1 hr 23 mins
+
 JavaScript   50 mins         ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   60.77 %
 HTML         19 mins         ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   23.70 %
 YAML         6 mins          ⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   08.42 %
