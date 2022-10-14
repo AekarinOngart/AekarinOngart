@@ -11,7 +11,7 @@ const aboutme = {
         databases: ["MySQL"],
         misc: ["React", "PHP"],
         os: ["Windows", "Ubuntu"],
-        myworkspace: ["I7-4790K", "RAM16GB", "GTX980TI"]
+        myworkspace: ["i7-4790k", "ram 16gb", "gtx 980ti"]
     },
     study_at: ["KMITL", "Computer Engineering"],
     funFact: "Simplicity is the soul of efficiency."
