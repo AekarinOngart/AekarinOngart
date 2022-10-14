@@ -17,11 +17,6 @@ const aboutme = {
 };
 ```
 
-<a href="https://aekarinongart.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank" height="25"></a>
-<a href="#" target="_blank"><img src="https://komarev.com/ghpvc/?username=AekarinOngart&style=for-the-badge" target="_blank" height="25"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" target="_blank" height="25"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" target="_blank" height="25"></a>
-
 
 <div align="center">
  <h2 align="left"=>🎯 Github Stats</h2>
@@ -72,6 +67,7 @@ Git Config   1 min           ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
     <a href="http://line.me/ti/p/~mon.aekarin" target="_blank"><img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" target="_blank" height="25"></a>
     <a href="mailto:Aekarin.Ongart@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="25"></a>
 </div>
+    <a href="https://aekarinongart.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank" height="25"></a>
 
 
 ![snake gif](https://github.com/AekarinOngart/AekarinOngart/blob/output/github-contribution-grid-snake.svg)
