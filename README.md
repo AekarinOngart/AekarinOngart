@@ -10,8 +10,7 @@ const aboutme = {
     technologies: {
         databases: ["MySQL"],
         misc: ["React", "PHP"],
-        os: ["Windows", "Ubuntu"],
-        myworkspace: ["i7-4790k", "ram 16gb", "gtx 980ti"]
+        os: ["Windows", "Ubuntu"]
     },
     study_at: ["KMITL", "Computer Engineering"],
     funFact: "Simplicity is the soul of efficiency."
