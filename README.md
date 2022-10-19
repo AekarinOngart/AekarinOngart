@@ -24,7 +24,7 @@ const aboutme = {
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AekarinOngart&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AekarinOngart&layout=compact&langs_count=7&theme=gotham" />
 </div>
- 
+
 <div style="display: inline_block"><br>
     <h2 align="left" style="display: inline">🧐 My Skill Set</h2>
     <img align="center" alt="mon-cshap" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="25">
@@ -84,6 +84,5 @@ Other        0 secs          ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank" height="25">
     </a>
 </div>
-
 
 ![snake gif](https://github.com/AekarinOngart/AekarinOngart/blob/output/github-contribution-grid-snake.svg)
