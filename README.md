@@ -5,15 +5,15 @@
  ```javascript
 const aboutme = {
     pronouns: "He" | "Mon",
-    code: ["C#", "Python", ".NET", "Javascript", "HTML5", "CSS3"],
-    askMeAbout: ["web dev", "app dev", "com eng"],
+    code: ["C#", "Python", ".NET", "Javascript", "HTML5", "CSS3", "PHP"],
+    askMeAbout: ["Web dev", "App dev", "Com eng"],
     technologies: {
-        databases: ["MySQL"],
-        misc: ["React", "PHP"],
+        databases: "MySQL",
+        misc: ["React", "ASP.NET MVC", "Bootstrap"],
         os: ["Windows", "Ubuntu"]
     },
     study_at: ["KMITL", "Computer Engineering"],
-    funFact: "Simplicity is the soul of efficiency."
+    funFact: "Simplicity is the soul of efficiency"
 };
 ```
 
