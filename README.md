@@ -13,7 +13,7 @@ const aboutme = {
         os: ["Windows", "Ubuntu"]
     },
     study_at: ["KMITL", "Computer Engineering"],
-    funFact: "Simplicity is the soul of efficiency"
+    funFact: "The Eiffel Tower can be 15 cm taller during the summer"
 };
 ```
 
