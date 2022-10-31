@@ -36,7 +36,7 @@ const aboutme = {
     <a href="https://learn.microsoft.com/th-th/aspnet/core/?view=aspnetcore-7.0" target="_blank">
     <img align="center" alt="mon-dotnet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="25">
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <a href="https://developer.oracle.com/languages/javascript.html" target="_blank">
     <img align="center" alt="mon-js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" height="25">
     </a>
     <a href="https://www.php.net/" target="_blank">
