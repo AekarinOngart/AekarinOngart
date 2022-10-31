@@ -42,10 +42,10 @@ const aboutme = {
     <a href="https://www.php.net/" target="_blank">
     <img align="center" alt="mon-php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25">
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
     <img align="center" alt="mon-html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25">
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <a href="https://www.w3.org/Style/CSS/" target="_blank">
     <img align="center" alt="mon-css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25">
     </a>
     <a href="https://getbootstrap.com/" target="_blank">
