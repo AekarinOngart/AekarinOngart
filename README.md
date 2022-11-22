@@ -33,7 +33,7 @@ const aboutme = {
     <a href="https://www.python.org/" target="_blank">
     <img align="center" alt="mon-python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25">
     </a>
-    <a href="https://learn.microsoft.com/th-th/aspnet/core/?view=aspnetcore-3.1" target="_blank">
+    <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank">
     <img align="center" alt="mon-dotnet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="25">
     </a>
     <a href="https://developer.oracle.com/languages/javascript.html" target="_blank">
