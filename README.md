@@ -64,16 +64,16 @@ const aboutme = {
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 October 2022 - To: 25 November 2022
+From: 09 October 2022 - To: 26 November 2022
 
-Total Time: 41 hrs 4 mins
+Total Time: 41 hrs 38 mins
 
-CSS          10 hrs 39 mins  ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   25.93 %
-JavaScript   8 hrs 29 mins   ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   20.66 %
-C#           7 hrs 59 mins   ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   19.45 %
-HTML         7 hrs 50 mins   ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   19.10 %
-Python       2 hrs 4 mins    ⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   05.05 %
-Other        1 hr 41 mins    ⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   04.11 %
+CSS          10 hrs 39 mins  ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   25.58 %
+JavaScript   8 hrs 29 mins   ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   20.38 %
+C#           7 hrs 59 mins   ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   19.19 %
+HTML         7 hrs 50 mins   ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   18.84 %
+Python       2 hrs 36 mins   ⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   06.27 %
+Other        1 hr 41 mins    ⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   04.07 %
 ```
 
 <!--END_SECTION:waka-->
