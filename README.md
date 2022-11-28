@@ -5,14 +5,14 @@
  ```javascript
 const aboutme = {
     name: "Mon",
-    code: ["C#", "Python", "JavaScript", "HTML5", "CSS3", "PHP"],
+    codes: ["C#", "Python", "JavaScript", "HTML5", "CSS3", "PHP"],
     askMeAbout: ["Web dev", "App dev", "Com eng"],
     technologies: {
-        databases: "MySQL",
+        database: "MySQL",
         misc: ["React", "ASP.NET", "REST API", "AJAX", "Bootstrap"],
         os: ["Windows", "macOS", "Ubuntu"]
     },
-    study_at: ["KMITL", "Computer Engineering"],
+    studyAt: ["KMITL", "Computer Engineering"],
     funFact: "The Eiffel Tower can be 15 cm taller during the summer"
 };
 ```
