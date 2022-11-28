@@ -12,7 +12,7 @@ const aboutme = {
         misc: ["React", "ASP.NET", "REST API", "AJAX", "Bootstrap"],
         os: ["Windows", "macOS", "Ubuntu"]
     },
-    study_at: ["KMITL", "Computer Engineering"],
+    study_at: ["KMITL", "Computer engineering"],
     funFact: "The Eiffel Tower can be 15 cm taller during the summer"
 };
 ```
