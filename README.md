@@ -17,7 +17,6 @@ const aboutme = {
 };
 ```
 
-
 <div align="center">
  <h2 align="left"=>🎯 Github Stats</h2>
     <a href="https://github.com/AekarinOngart">
