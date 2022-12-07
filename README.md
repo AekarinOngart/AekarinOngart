@@ -97,6 +97,9 @@ Markdown     4 hrs 24 mins   ⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
     <a href="http://line.me/ti/p/~mon.aekarin" target="_blank">
     <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" target="_blank" height="25">
     </a>
+    <a href="https://ko-fi.com/AekarinOngart" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank" height="25">
+    </a>
     <a href="mailto:Aekarin.Ongart@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="25">
     </a>
