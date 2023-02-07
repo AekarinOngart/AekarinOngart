@@ -5,7 +5,7 @@
  ```javascript
 const aboutme = {
     name: "Mon",
-    codes: ["C#", "Python", "JavaScript", "HTML5", "CSS3", "PHP"],
+    codes: ["C#", "Python", "JavaScript", "HTML5", "CSS3"],
     askMeAbout: ["Web dev", "App dev", "Com eng"],
     technologies: {
         database: ["MySQL", "MongoDB"]
