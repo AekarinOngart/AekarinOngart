@@ -6,7 +6,7 @@
 const aboutme = {
     name: "Mon",
     codes: ["C#", "Python", "JavaScript", "HTML5", "CSS3"],
-    askMeAbout: ["Web dev", "App dev", "Com eng"],
+    askMeAbout: ["WebDev", "AppDev", "DevOps"],
     technologies: {
         database: ["MySQL", "MongoDB"]
         misc: ["React", "ASP.NET", "REST API", "AJAX", "Bootstrap"],
