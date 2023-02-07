@@ -50,11 +50,11 @@ const aboutme = {
     <a href="https://reactjs.org/" target="_blank">
        <img align="center" alt="mon-reart" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="24">
     </a>
-    <a href="https://www.mysql.com/" target="_blank">
-       <img align="center" alt="mon-MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="24">
-    </a>
     <a href="https://www.mongodb.com/" target="_blank">
        <img align="center" alt="mon-MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="24">
+    </a>
+    <a href="https://www.mysql.com/" target="_blank">
+       <img align="center" alt="mon-MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="24">
     </a>
 </div>
 
