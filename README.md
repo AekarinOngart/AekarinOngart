@@ -80,7 +80,7 @@ Python       6 hrs 30 mins   ⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 <div>
     <h2 align="left">💬 Connect with me</h2>
     <a href="https://www.linkedin.com/in/monaekarin/" target="_blank">
-       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="25">
+       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="24">
     </a>
     <a href="https://instagram.com/monaekarin" target="_blank">
        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" height="24">
