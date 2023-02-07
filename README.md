@@ -79,8 +79,11 @@ Python       6 hrs 30 mins   ⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 
 <div>
     <h2 align="left">💬 Connect with me</h2>
-    <a href="https://www.messenger.com/t/mon.pocket" target="_blank">
-       <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" target="_blank" height="24">
+    <a href="https://www.linkedin.com/in/monaekarin/" target="_blank">
+       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="25">
+    </a>
+    <a href="https://www.facebook.com/monaekarinn/" target="_blank">
+       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" height="24">
     </a>
     <a href="https://instagram.com/monaekarin" target="_blank">
        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" height="24">
@@ -102,9 +105,6 @@ Python       6 hrs 30 mins   ⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
     </a>
     <a href="mailto:Aekarin.Ongart@gmail.com">
        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="24">
-    </a>
-    <a href="https://aekarinongart.github.io" target="_blank">
-       <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank" height="25">
     </a>
 </div>
 
