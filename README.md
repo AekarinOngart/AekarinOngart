@@ -8,7 +8,7 @@ const aboutme = {
     codes: ["HTML5", "CSS3", "JavaScript(ES6)", "Python 3", "C#", "SQL"],
     askMeAbout: ["Front-End", "Back-End"],
     technologies: {
-        database: ["MySQL 8.0", "SQL Server 2022"],
+        database: ["MySQL", "SQL Server 2022"],
         misc: ["React.js", "ASP.NET Core MVC (.NET7)", "jQuery"],
         os: "Windows"
     },
