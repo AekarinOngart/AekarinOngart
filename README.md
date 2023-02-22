@@ -36,28 +36,28 @@ const aboutme = {
        <img align="center" alt="mon-js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" height="21">
     </a>
     <a href="https://www.python.org" target="_blank">
-       <img align="center" alt="mon-python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="21">
+       <img align="center" alt="mon-python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="20">
     </a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp" target="_blank">
-       <img align="center" alt="mon-cshap" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="21">
+       <img align="center" alt="mon-cshap" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="20">
     </a>
     <a href="https://www.mysql.com" target="_blank">
-       <img align="center" alt="mon-MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="21">
+       <img align="center" alt="mon-MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="20">
     </a>
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-       <img align="center" alt="mon-sqlserver" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="21">
+       <img align="center" alt="mon-sqlserver" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="20">
     </a>
     <a href="https://reactjs.org" target="_blank">
-       <img align="center" alt="mon-reart.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="21">
+       <img align="center" alt="mon-reart.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="20">
     </a>
     <a href="https://www.gatsbyjs.com" target="_blank">
-       <img align="center" alt="mon-gatsby.js" src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" height="21">
+       <img align="center" alt="mon-gatsby.js" src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" height="20">
     </a>
     <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank">
-       <img align="center" alt="mon-dotnet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="21">
+       <img align="center" alt="mon-dotnet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="20">
     </a>
     <a href="https://jquery.com" target="_blank">
-       <img align="center" alt="mon-jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="21">
+       <img align="center" alt="mon-jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="20">
     </a>
 </div>
 
