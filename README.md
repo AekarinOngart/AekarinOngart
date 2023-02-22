@@ -9,7 +9,7 @@ const aboutme = {
     askMeAbout: ["Front-End", "Back-End"],
     technologies: {
         database: ["MySQL", "SQL Server 2022"],
-        misc: ["React.js", "ASP.NET Core MVC (.NET7)", "jQuery"],
+        misc: ["React.js", "Gatsby.js", "ASP.NET Core MVC (.NET7)", "jQuery"],
         os: "Windows"
     },
     studyAt: ["KMITL", "Computer Engineering"],
@@ -26,34 +26,37 @@ const aboutme = {
 
 <div style="display: inline_block"><br>
     <h2 align="left" style="display: inline">🧐 My Skill Set</h2>
-    <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
+    <a href="https://html.spec.whatwg.org/multipage" target="_blank">
        <img align="center" alt="mon-html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="21">
     </a>
-    <a href="https://www.w3.org/Style/CSS/" target="_blank">
+    <a href="https://www.w3.org/Style/CSS" target="_blank">
        <img align="center" alt="mon-css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="21">
     </a>
     <a href="https://developer.oracle.com/languages/javascript.html" target="_blank">
        <img align="center" alt="mon-js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" height="21">
     </a>
-    <a href="https://www.python.org/" target="_blank">
+    <a href="https://www.python.org" target="_blank">
        <img align="center" alt="mon-python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="21">
     </a>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp" target="_blank">
        <img align="center" alt="mon-cshap" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="21">
     </a>
-    <a href="https://www.mysql.com/" target="_blank">
+    <a href="https://www.mysql.com" target="_blank">
        <img align="center" alt="mon-MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="21">
     </a>
-    <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank">
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
        <img align="center" alt="mon-sqlserver" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="21">
     </a>
-    <a href="https://reactjs.org/" target="_blank">
+    <a href="https://reactjs.org" target="_blank">
        <img align="center" alt="mon-reart.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="21">
+    </a>
+    <a href="https://www.gatsbyjs.com" target="_blank">
+       <img align="center" alt="mon-gatsby.js" src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" height="21">
     </a>
     <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank">
        <img align="center" alt="mon-dotnet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="21">
     </a>
-    <a href="https://jquery.com/" target="_blank">
+    <a href="https://jquery.com" target="_blank">
        <img align="center" alt="mon-jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="21">
     </a>
 </div>
@@ -79,13 +82,13 @@ Python       6 hrs 32 mins   ⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 
 <div>
     <h2 align="left">💬 Connect with me</h2>
-    <a href="https://www.linkedin.com/in/monaekarin/" target="_blank">
+    <a href="https://www.linkedin.com/in/monaekarin" target="_blank">
        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="22">
     </a>
     <a href="https://instagram.com/monaekarin" target="_blank">
        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" height="22">
     </a>
-    <a href="https://www.facebook.com/monaekarinn/" target="_blank">
+    <a href="https://www.facebook.com/monaekarinn" target="_blank">
        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" height="22">
     </a>
     <a href="https://www.youtube.com/HackBaoBao" target="_blank">
