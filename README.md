@@ -112,6 +112,9 @@ Python       6 hrs 32 mins   ⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
     <a href="mailto:Aekarin.Ongart@gmail.com">
        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="24">
     </a>
+    <a href="https://aekarinongart.github.io">
+       <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank" height="24">
+    </a>
 </div>
 
 ![snake gif](https://github.com/AekarinOngart/AekarinOngart/blob/output/github-contribution-grid-snake.svg)
