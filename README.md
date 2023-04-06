@@ -6,7 +6,7 @@
  ```javascript
 const aboutme = {
     name: "Mon",
-    codes: ["HTML", "CSS", "JavaScript", "Python", "C#"],
+    codes: ["HTML", "CSS", "JavaScript", "Python", "C++", "C#"],
     askMeAbout: ["Front-End", "Back-End"],
     technologies: {
         database: ["MySQL", "SQL Server"],
