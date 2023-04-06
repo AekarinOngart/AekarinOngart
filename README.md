@@ -6,11 +6,11 @@
  ```javascript
 const aboutme = {
     name: "Mon",
-    codes: ["HTML5", "CSS3", "JavaScript(ES6)", "Python 3", "C#"],
+    codes: ["HTML", "CSS", "JavaScript", "Python", "C#"],
     askMeAbout: ["Front-End", "Back-End"],
     technologies: {
-        database: ["MySQL", "SQL Server 2022"],
-        misc: ["React.js", "Gatsby.js", "ASP.NET Core MVC (.NET7)", "jQuery"],
+        database: ["MySQL", "SQL Server"],
+        misc: ["React.js", "Gatsby.js", "ASP.NET Core MVC", "jQuery"],
         os: "Windows"
     },
     studyAt: ["KMITL", "Computer Engineering"],
