@@ -10,7 +10,7 @@ const aboutme = {
     askMeAbout: ["Front-End", "Back-End"],
     technologies: {
         database: ["MySQL", "SQL Server"],
-        misc: ["React.js", "Gatsby.js", "ASP.NET Core MVC", "jQuery"],
+        misc: ["React.js", "Express.js", "ASP.NET Core MVC", "jQuery"],
         os: "Windows"
     },
     studyAt: ["KMITL", "Computer Engineering"],
@@ -52,7 +52,7 @@ const aboutme = {
        <img align="center" alt="mon-reart.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="20">
     </a>
     <a href="https://www.gatsbyjs.com" target="_blank">
-       <img align="center" alt="mon-gatsby.js" src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" height="20">
+       <img align="center" alt="mon-express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" height="20">
     </a>
     <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank">
        <img align="center" alt="mon-dotnet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="20">
