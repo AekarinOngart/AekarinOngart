@@ -52,7 +52,7 @@ const aboutme = {
        <img align="center" alt="mon-reart.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="20">
     </a>
     <a href="https://www.expressjs.com" target="_blank">
-       <img align="center" alt="mon-express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" height="20">
+       <img align="center" alt="mon-express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="20">
     </a>
     <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank">
        <img align="center" alt="mon-dotnet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="20">
