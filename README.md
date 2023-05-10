@@ -9,7 +9,7 @@ const aboutme = {
     codes: ["HTML", "CSS", "JavaScript", "Python", "C++", "C#"],
     askMeAbout: ["Front-End", "Back-End"],
     technologies: {
-        database: ["MySQL", "SQL Server"],
+        database: ["MySQL"],
         misc: ["React.js", "Express.js", "ASP.NET Core MVC", "jQuery"],
         os: "Windows"
     },
@@ -39,19 +39,19 @@ const aboutme = {
     <a href="https://www.python.org" target="_blank">
        <img align="center" alt="mon-python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="20">
     </a>
+    <a href="https://learn.microsoft.com/en-us/cpp/" target="_blank">
+       <img align="center" alt="mon-cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="20">
+    </a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp" target="_blank">
        <img align="center" alt="mon-cshap" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="20">
     </a>
     <a href="https://www.mysql.com" target="_blank">
        <img align="center" alt="mon-MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="20">
     </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-       <img align="center" alt="mon-sqlserver" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="20">
-    </a>
     <a href="https://reactjs.org" target="_blank">
        <img align="center" alt="mon-reart.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="20">
     </a>
-    <a href="https://www.gatsbyjs.com" target="_blank">
+    <a href="https://www.expressjs.com" target="_blank">
        <img align="center" alt="mon-express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" height="20">
     </a>
     <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank">
