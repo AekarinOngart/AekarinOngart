@@ -9,7 +9,7 @@ const aboutme = {
     codes: ["HTML", "CSS", "JavaScript", "Python", "C++", "C#"],
     askMeAbout: ["Front-End", "Back-End"],
     technologies: {
-        database: ["MySQL"],
+        database: "MySQL",
         misc: ["React.js", "Express.js", "ASP.NET Core MVC", "jQuery"],
         os: "Windows"
     },
