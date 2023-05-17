@@ -4,16 +4,16 @@
 
  ```javascript
 const aboutme = {
-    name: "Mon",
-    codes: ["HTML", "CSS", "JavaScript", "Python", "C++", "C#"],
-    askMeAbout: ["Front-End", "Back-End"],
-    technologies: {
-        database: "MySQL",
-        misc: ["React.js", "Express.js", "ASP.NET Core MVC", "jQuery"],
-        os: "Windows",
-    },
-    studyAt: ["KMITL", "Computer Engineering"],
-    funFact: "The Eiffel Tower can be 15 cm taller during the summer",
+   name: "Mon",
+   codes: ["HTML", "CSS", "JavaScript", "Python", "C++", "C#"],
+   askMeAbout: ["Front-End", "Back-End"],
+   technologies: {
+       database: "MySQL",
+       misc: ["React.js", "Express.js", "ASP.NET Core MVC", "jQuery"],
+       os: "Windows",
+   },
+   studyAt: ["KMITL", "Computer Engineering"],
+   funFact: "The Eiffel Tower can be 15 cm taller during the summer",
 };
 ```
 
