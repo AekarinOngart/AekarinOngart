@@ -10,7 +10,7 @@ const aboutme = {
    technologies: {
        database: "MySQL",
        misc: ["React.js", "Express.js", "ASP.NET Core MVC", "jQuery"],
-       os: "Windows",
+       os: ["Windows", "macOS"],
    },
    studyAt: ["KMITL", "Computer Engineering"],
    funFact: "The Eiffel Tower can be 15 cm taller during the summer",
