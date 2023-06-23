@@ -47,6 +47,9 @@ const aboutme = {
     <a href="https://www.mysql.com" target="_blank">
        <img align="center" alt="mon-MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="22">
     </a>
+    <a href="https://nodejs.dev/en/" target="_blank">
+       <img align="center" alt="mon-nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="22">
+    </a>
     <a href="https://reactjs.org" target="_blank">
        <img align="center" alt="mon-reart.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="22">
     </a>
