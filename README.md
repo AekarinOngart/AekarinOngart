@@ -11,7 +11,7 @@ const aboutme = {
        automate: ["GoCD", "GitLab"],
        cloud: ["Netlify", "AWS"],
        database: ["MySQL", "DynamoDB"],
-       misc: ["React.js", "Express.js", "ASP.NET Core MVC", "jQuery"],
+       misc: ["React.js", "Express.js", "ASP.NET Core MVC", "Figma"],
        os: ["macOS", "Windows"],
    },
    studyAt: ["KMITL", "Computer Engineering"],
@@ -56,11 +56,11 @@ const aboutme = {
     <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank">
        <img align="center" alt="mon-dotnet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="22">
     </a>
-    <a href="https://jquery.com" target="_blank">
-       <img align="center" alt="mon-jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="22">
-    </a>
     <a href="https://www.shellscript.sh/" target="_blank">
        <img align="center" alt="mon-zhshell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" height="22">
+    </a>
+    <a href="https://www.figma.com/" target="_blank">
+       <img align="center" alt="mon-figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="22">
     </a>
 </div>
 
