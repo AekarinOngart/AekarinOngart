@@ -44,8 +44,8 @@ const aboutme = {
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp" target="_blank">
        <img align="center" alt="mon-cshap" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="22">
     </a>
-    <a href="https://www.mysql.com" target="_blank">
-       <img align="center" alt="mon-MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="22">
+    <a href="https://aws.amazon.com/" target="_blank">
+       <img align="center" alt="mon-aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="22">
     </a>
     <a href="https://nodejs.dev/en/" target="_blank">
        <img align="center" alt="mon-nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="22">
