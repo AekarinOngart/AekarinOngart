@@ -11,7 +11,7 @@ const aboutme = {
        automate: ["GoCD", "GitLab"],
        cloud: ["Netlify", "AWS"],
        database: ["MySQL", "DynamoDB"],
-       misc: ["React.js", "Express.js", "ASP.NET Core MVC", "Figma"],
+       misc: ["React.js", "Express.js", "ASP.NET Core MVC"],
        os: ["macOS", "Windows"],
    },
    studyAt: ["KMITL", "Computer Engineering"],
@@ -58,9 +58,6 @@ const aboutme = {
     </a>
     <a href="https://www.shellscript.sh/" target="_blank">
        <img align="center" alt="mon-zhshell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" height="22">
-    </a>
-    <a href="https://www.figma.com/" target="_blank">
-       <img align="center" alt="mon-figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="22">
     </a>
 </div>
 
