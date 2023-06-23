@@ -38,9 +38,6 @@ const aboutme = {
     <a href="https://www.python.org" target="_blank">
        <img align="center" alt="mon-python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="22">
     </a>
-    <a href="https://learn.microsoft.com/en-us/cpp/" target="_blank">
-       <img align="center" alt="mon-cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="22">
-    </a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp" target="_blank">
        <img align="center" alt="mon-cshap" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="22">
     </a>
@@ -58,6 +55,9 @@ const aboutme = {
     </a>
     <a href="https://jquery.com" target="_blank">
        <img align="center" alt="mon-jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="22">
+    </a>
+    <a href="https://www.shellscript.sh/" target="_blank">
+       <img align="center" alt="mon-zhshell" src="://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" height="22">
     </a>
 </div>
 
