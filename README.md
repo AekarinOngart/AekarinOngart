@@ -5,14 +5,17 @@
  ```javascript
 const aboutme = {
    name: "Mon",
-   codes: ["HTML", "CSS", "JavaScript", "Python", "C++", "C#"],
-   askMeAbout: ["Front-End", "Back-End"],
+   codes: ["HTML", "CSS", "JavaScript", "Python", "C#", "ShellScript"],
+   askMeAbout: ["Front-End", "Back-End", "DevOps"],
    technologies: {
-       database: "MySQL",
+       automate: ["GoCD", "GitLab"],
+       cloud: ["Netlify", "AWS"],
+       database: ["MySQL", "DynamoDB"],
        misc: ["React.js", "Express.js", "ASP.NET Core MVC", "jQuery"],
        os: ["macOS", "Windows"],
    },
    studyAt: ["KMITL", "Computer Engineering"],
+   internshipAt: ["DevOps", "Krungsri Auto"],
    funFact: "The Eiffel Tower can be 15 cm taller during the summer",
 };
 ```
