@@ -47,9 +47,6 @@ const aboutme = {
     <a href="https://aws.amazon.com/" target="_blank">
        <img align="center" alt="mon-aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="22">
     </a>
-    <a href="https://nodejs.dev/en/" target="_blank">
-       <img align="center" alt="mon-nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="22">
-    </a>
     <a href="https://reactjs.org" target="_blank">
        <img align="center" alt="mon-reart.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="22">
     </a>
