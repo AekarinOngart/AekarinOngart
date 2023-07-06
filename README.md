@@ -44,6 +44,9 @@ const aboutme = {
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp" target="_blank">
        <img align="center" alt="mon-cshap" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="22">
     </a>
+    <a href="https://aws.amazon.com/" target="_blank">
+       <img align="center" alt="mon-aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="22">
+    </a>
     <a href="https://www.docker.com/" target="_blank">
        <img align="center" alt="mon-docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="22">
     </a>
