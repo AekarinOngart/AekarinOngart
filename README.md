@@ -12,7 +12,7 @@ const aboutme = {
        cloud: ["Netlify", "AWS"],
        database: ["MySQL", "DynamoDB"],
        misc: ["Docker", "React.js", "Express.js", "ASP.NET Core MVC"],
-       os: ["macOS", "Windows"],
+       os: ["Linux", "macOS", "Windows"],
    },
    studyAt: ["KMITL", "Computer Engineering"],
    internshipAt: ["Krungsri Auto", "DevOps"],
