@@ -118,4 +118,4 @@ Bash                11 hrs 17 mins  ⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
     </a>
 </div>
 
-![snake gif](https://github.com/AekarinOngart/AekarinOngart/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AekarinOngart/AekarinOngart/blob/output/github-contribution-grid-snake.svg)
