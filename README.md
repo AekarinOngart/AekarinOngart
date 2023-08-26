@@ -69,9 +69,9 @@ const aboutme = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 October 2022 - To: 24 August 2023
+From: 09 October 2022 - To: 25 August 2023
 
-Total Time: 270 hrs 35 mins
+Total Time: 270 hrs 36 mins
 
 Shell Script        58 hrs 14 mins  ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   21.52 %
 JavaScript          31 hrs 32 mins  ⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   11.65 %
