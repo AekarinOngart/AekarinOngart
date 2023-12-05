@@ -41,9 +41,6 @@ const aboutme = {
     <a href="https://www.python.org" target="_blank">
        <img align="center" alt="mon-python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="20">
     </a>
-    <a href="https://aws.amazon.com/" target="_blank">
-       <img align="center" alt="mon-aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20">
-    </a>
     <a href="https://www.docker.com/" target="_blank">
        <img align="center" alt="mon-docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="20">
     </a>
@@ -59,8 +56,8 @@ const aboutme = {
     <a href="https://www.shellscript.sh/" target="_blank">
        <img align="center" alt="mon-zhshell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" height="20">
     </a>
-    <a href="https://tailwindcss.com/docs/installation" target="_blank">
-       <img align="center" alt="mon-cshap" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwin" height="20">
+    <a href="https://www.jenkins.io/" target="_blank">
+       <img align="center" alt="mon-aws" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" height="20">
     </a>
 </div>
 
