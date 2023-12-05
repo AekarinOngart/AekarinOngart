@@ -41,9 +41,6 @@ const aboutme = {
     <a href="https://www.python.org" target="_blank">
        <img align="center" alt="mon-python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="20">
     </a>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp" target="_blank">
-       <img align="center" alt="mon-cshap" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="20">
-    </a>
     <a href="https://aws.amazon.com/" target="_blank">
        <img align="center" alt="mon-aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20">
     </a>
@@ -56,11 +53,14 @@ const aboutme = {
     <a href="https://www.expressjs.com" target="_blank">
        <img align="center" alt="mon-express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="20">
     </a>
-    <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank">
-       <img align="center" alt="mon-dotnet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="20">
+    <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank">
+       <img align="center" alt="mon-dotnet" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="20">
     </a>
     <a href="https://www.shellscript.sh/" target="_blank">
        <img align="center" alt="mon-zhshell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" height="20">
+    </a>
+    <a href="https://tailwindcss.com/docs/installation" target="_blank">
+       <img align="center" alt="mon-cshap" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwin" height="20">
     </a>
 </div>
 
