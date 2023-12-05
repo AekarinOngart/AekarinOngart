@@ -5,13 +5,13 @@
  ```javascript
 const aboutme = {
    name: "Mon",
-   codes: ["HTML", "CSS", "JavaScript", "Python", "C#", "ShellScript"],
+   codes: ["HTML", "CSS", "JavaScript", "Python", "SQL", "ShellScript"],
    askMeAbout: ["Front-End", "Back-End", "DevOps"],
    technologies: {
-       automate: ["GoCD", "GitLab"],
+       automate: ["GoCD", "GitLab", "GitHub", "Jenkins"],
        cloud: ["Netlify", "AWS"],
-       database: ["MySQL", "DynamoDB"],
-       misc: ["Docker", "React.js", "Express.js", "Flask", "ASP.NET Core MVC"],
+       database: "MySQL",
+       misc: ["TailwindCSS", "Bootstrap", "Docker", "React.js", "Express.js", "Flask", "Robot Framework", "Jmeter", "YOLO"],
        os: ["Linux", "macOS", "Windows"],
    },
    studyAt: ["KMITL", "Computer Engineering"],
