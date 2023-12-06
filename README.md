@@ -9,7 +9,7 @@ const aboutme = {
    askMeAbout: ["Front-End", "Back-End", "DevOps", "AI"],
    technologies: {
        automate: ["GoCD", "GitLab", "GitHub", "Jenkins"],
-       cloud: ["Netlify", "AWS"],
+       cloud: ["AWS", "Netlify"],
        database: "MySQL",
        misc: ["Docker", "React.js", "Express.js", "Flask", "Robot Framework", "Jmeter", "YOLO", "TailwindCSS"],
        os: ["Linux", "macOS", "Windows"],
