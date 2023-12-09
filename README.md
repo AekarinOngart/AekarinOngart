@@ -66,17 +66,17 @@ const aboutme = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 October 2022 - To: 07 December 2023
+From: 09 October 2022 - To: 08 December 2023
 
-Total Time: 339 hrs 51 mins
+Total Time: 341 hrs 40 mins
 
-Shell Script               63 hrs 39 mins  ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   18.73 %
-JavaScript                 41 hrs 44 mins  ⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   12.28 %
-Bash                       29 hrs 31 mins  ⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   08.69 %
-Python                     25 hrs 42 mins  ⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   07.56 %
-YAML                       25 hrs 35 mins  ⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   07.53 %
-Text                       21 hrs 44 mins  ⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   06.40 %
-Dart                       18 hrs 44 mins  ⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   05.52 %
+Shell Script               63 hrs 39 mins  ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   18.63 %
+JavaScript                 42 hrs 49 mins  ⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   12.53 %
+Bash                       29 hrs 31 mins  ⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   08.64 %
+Python                     25 hrs 42 mins  ⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   07.52 %
+YAML                       25 hrs 37 mins  ⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   07.50 %
+Text                       21 hrs 44 mins  ⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   06.37 %
+Dart                       18 hrs 44 mins  ⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   05.49 %
 ```
 
 <!--END_SECTION:waka-->
