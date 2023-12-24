@@ -8,8 +8,8 @@ const aboutme = {
    codes: ["HTML", "CSS", "JavaScript", "Python", "SQL", "ShellScript"],
    askMeAbout: ["Front-End", "Back-End", "DevOps", "AI"],
    technologies: {
-       CI/CD: ["GitLab", "GitHub", "Jenkins", "GoCD"],
-       Framework: ["React.js", "Express.js", "Flask", "Robot Framework", "TailwindCSS", "Bootstrap"],
+       ci/cd: ["GitLab", "GitHub", "Jenkins", "GoCD"],
+       framework: ["React.js", "Express.js", "Flask", "Robot Framework", "TailwindCSS", "Bootstrap"],
        database: "MySQL",
        cloud: ["AWS", "Netlify"],
        misc: ["Docker", "Jmeter"],
