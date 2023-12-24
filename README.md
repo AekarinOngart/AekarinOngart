@@ -9,7 +9,7 @@ const aboutme = {
    askMeAbout: ["Front-End", "Back-End", "DevOps", "AI"],
    technologies: {
        CI/CD: ["GitLab", "GitHub", "Jenkins", "GoCD"],
-       Framework: ["React.js", "Express.js", "Flask", "Robot Framework", "TailwindCSS", "Bootstrap"]
+       Framework: ["React.js", "Express.js", "Flask", "Robot Framework", "TailwindCSS", "Bootstrap"],
        database: "MySQL",
        cloud: ["AWS", "Netlify"],
        misc: ["Docker", "Jmeter"],
