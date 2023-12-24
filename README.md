@@ -16,7 +16,7 @@ const aboutme = {
        os: ["Linux", "macOS", "Windows"],
    },
    studyAt: ["KMITL", "Computer Engineering"],
-   internshipAt: ["Krungsri Auto", "Software Developer"],
+   internshipAt: ["Krungsri Auto", "DevOps"],
    funFact: "The Eiffel Tower can be 15 cm taller during the summer",
 };
 ```
