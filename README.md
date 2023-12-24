@@ -11,7 +11,7 @@ const aboutme = {
        automate: ["GoCD", "GitLab", "GitHub", "Jenkins"],
        cloud: ["AWS", "Netlify"],
        database: "MySQL",
-       misc: ["Docker", "React.js", "Express.js", "Flask", "Robot Framework", "Jmeter", "YOLO", "TailwindCSS"],
+       misc: ["Docker", "React.js", "Express.js", "Flask", "Robot Framework", "Jmeter", "TailwindCSS", "Bootstrap"],
        os: ["Linux", "macOS", "Windows"],
    },
    studyAt: ["KMITL", "Computer Engineering"],
