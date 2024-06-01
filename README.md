@@ -5,18 +5,19 @@
  ```javascript
 const aboutme = {
    name: "Mon",
-   codes: ["HTML", "CSS", "JavaScript", "Python", "SQL", "ShellScript"],
-   askMeAbout: ["Front-End", "Back-End", "DevOps", "AI"],
+   codes: ["HTML", "CSS", "JavaScript", "Python", "ShellScript"],
+   askMeAbout: ["Front-End", "Back-End", "DevOps"],
    technologies: {
-       ci_cd: ["GitLab", "GitHub", "Jenkins", "GoCD"],
-       framework: ["React.js", "Express.js", "Flask", "Robot Framework", "TailwindCSS", "Bootstrap"],
-       database: "MySQL",
+       ci_cd: ["GitLab", "GitHub", "Jenkins", "ArgoCD"],
+       framework: ["React.js", "Express.js", "Flask", "TailwindCSS"],
+       database: ["MySQL", "MongoDB"],
        cloud: ["AWS", "Netlify"],
-       misc: ["Docker", "Jmeter"],
-       os: ["Linux", "macOS", "Windows"],
+       misc: ["Docker", "Jmeter", "Terraform"],
+       os: ["Ubuntu", "macOS", "Windows"],
    },
-   studyAt: ["KMITL", "Computer Engineering"],
-   internshipAt: ["Krungsri Auto", "DevOps Engineer"],
+   Studied: ["KMITL", "Computer Engineering"],
+   interned: ["Krungsri Auto", "DevOps Engineer"],
+   work: ["Bitkub Online", "Platform Engineer"],
    funFact: "The Eiffel Tower can be 15 cm taller during the summer",
 };
 ```
