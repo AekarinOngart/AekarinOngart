@@ -8,7 +8,7 @@ const aboutme = {
    codes: ["HTML", "CSS", "JavaScript", "Python", "ShellScript"],
    askMeAbout: ["Front-End", "Back-End", "DevOps"],
    technologies: {
-       ci_cd: ["GitLab", "GitHub", "Jenkins", "ArgoCD"],
+       ci_cd: ["GitLab-CI", "Jenkins", "ArgoCD"],
        framework: ["React.js", "Express.js", "Flask", "TailwindCSS"],
        database: ["MySQL", "MongoDB"],
        cloud: ["AWS", "Netlify"],
