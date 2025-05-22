@@ -68,13 +68,13 @@ const aboutme = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 October 2022 - To: 20 May 2025
+From: 09 October 2022 - To: 21 May 2025
 
-Total Time: 1,163 hrs 52 mins
+Total Time: 1,164 hrs 44 mins
 
-YAML                       413 hrs 5 mins  ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   35.49 %
-JavaScript                 150 hrs 2 mins  ⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   12.89 %
-Bash                       127 hrs 44 mins ⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   10.98 %
+YAML                       413 hrs 6 mins  ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   35.47 %
+JavaScript                 150 hrs 2 mins  ⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   12.88 %
+Bash                       128 hrs 35 mins ⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   11.04 %
 Python                     89 hrs 11 mins  ⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   07.66 %
 Shell Script               63 hrs 39 mins  ⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   05.47 %
 Other                      40 hrs 32 mins  ⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   03.48 %
