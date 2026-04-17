@@ -5,15 +5,15 @@
  ```javascript
 const aboutme = {
    name: "Mon",
-   codes: ["HTML", "CSS", "JavaScript", "Python", "ShellScript"],
-   askMeAbout: ["Front-End", "Back-End", "DevOps"],
+   codes: ["JavaScript", "TypeScript", "Python", "ShellScript", "Terraform"],
+   askMeAbout: ["Back-End", "DevOps", "Infrastructure"],
    technologies: {
        ci_cd: ["GitLab-CI", "Jenkins", "ArgoCD"],
-       framework: ["React.js", "Express.js", "Flask", "TailwindCSS"],
-       database: ["MySQL", "MongoDB"],
-       cloud: ["AWS", "Netlify"],
-       misc: ["Docker", "Jmeter", "Terraform"],
-       os: ["Ubuntu", "macOS", "Windows"],
+       framework: ["Next.js", "FastAPI", "TailwindCSS", "Terramate", "Terraspace"],
+       database: ["MySQL", "MongoDB", "Redis"],
+       cloud: ["AWS", "Tencent"],
+       misc: ["Docker", "Kubernetes", "Lambda"],
+       os: ["Ubuntu", "macOS"],
    },
    Studied: ["KMITL", "Computer Engineering"],
    interned: ["Krungsri Auto", "DevOps Engineer"],
