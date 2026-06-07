@@ -68,17 +68,17 @@ const aboutme = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 October 2022 - To: 04 June 2026
+From: 09 October 2022 - To: 06 June 2026
 
-Total Time: 1,872 hrs 48 mins
+Total Time: 1,876 hrs 41 mins
 
-YAML                       734 hrs 6 mins        ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   39.20 %
-Bash                       209 hrs 15 mins       ⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   11.17 %
-JavaScript                 165 hrs 35 mins       ⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   08.84 %
-Terraform                  124 hrs 45 mins       ⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   06.66 %
-Python                     105 hrs 28 mins       ⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   05.63 %
-Other                      81 hrs 21 mins        ⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   04.34 %
-Shell Script               63 hrs 50 mins        ⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   03.41 %
+YAML                       735 hrs 55 mins       ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   39.21 %
+Bash                       209 hrs 17 mins       ⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   11.15 %
+JavaScript                 165 hrs 35 mins       ⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   08.82 %
+Terraform                  125 hrs 21 mins       ⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   06.68 %
+Python                     105 hrs 28 mins       ⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   05.62 %
+Other                      82 hrs 41 mins        ⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   04.41 %
+Shell Script               63 hrs 50 mins        ⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   03.40 %
 ```
 
 <!--END_SECTION:waka-->
