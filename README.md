@@ -22,7 +22,7 @@ const aboutme = {
 };
 ```
 
-<div align="center">
+<!-- <div align="center">
  <h2 align="left"=>🎯 Github Stats</h2>
     <a href="https://github.com/AekarinOngart">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aekarinongart&show_icons=true&theme=gotham&hide_border=true" />
@@ -63,7 +63,7 @@ const aboutme = {
     </a>
 </div>
 
-<br>
+<br> -->
 
 <!--START_SECTION:waka-->
 
