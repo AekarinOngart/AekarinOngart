@@ -4,21 +4,23 @@
 
  ```javascript
 const aboutme = {
-   name: "Mon",
-   codes: ["JavaScript", "TypeScript", "Python", "ShellScript", "Terraform"],
-   askMeAbout: ["Back-End", "DevOps", "Infrastructure"],
-   technologies: {
-       ci_cd: ["GitLab-CI", "Jenkins", "ArgoCD"],
-       framework: ["Next.js", "FastAPI", "TailwindCSS", "Terramate", "Terraspace"],
-       database: ["MySQL", "MongoDB", "Redis"],
-       cloud: ["AWS", "Tencent"],
-       misc: ["Docker", "Kubernetes", "Lambda"],
-       os: ["Ubuntu", "macOS"],
-   },
-   Studied: ["KMITL", "Computer Engineering"],
-   interned: ["Krungsri Auto", "DevOps Engineer"],
-   work: ["Bitkub Online", "Platform Engineer"],
-   funFact: "The Eiffel Tower can be 15 cm taller during the summer",
+  name: "Mon",
+  codes: ["Python", "Bash", "Terraform"],
+  askMeAbout: ["Platform Engineering", "DevOps", "Infrastructure"],
+  technologies: {
+    ci_cd: ["GitLab CI", "Jenkins", "ArgoCD", "Git"],
+    framework: ["FastAPI", "Terramate", "Terraspace"],
+    database: ["MySQL", "MongoDB", "Redis"],
+    cloud: ["AWS", "Tencent Cloud", "Cloudflare"],
+    misc: ["Docker", "Kubernetes", "Helm", "Lambda"],
+    security: ["Trivy", "Snyk", "SonarQube", "OSV-Scanner", "Dependency-Track", "DefectDojo"],
+    observability: ["Prometheus", "Grafana"],
+    os: ["Ubuntu", "macOS"],
+  },
+  studied: ["KMITL", "Computer Engineering"],
+  interned: ["Krungsri Auto", "DevOps Engineer Intern"],
+  work: ["Bitkub Online", "Platform Engineer"],
+  funFact: "The Eiffel Tower can be 15 cm taller during the summer",
 };
 ```
 
