@@ -65,6 +65,10 @@ const aboutme = {
 
 <br> -->
 
+<div align="center">
+ <h2 align="left"=>🎯 Github Stats</h2>
+</div>
+
 <!--START_SECTION:waka-->
 
 ```txt
